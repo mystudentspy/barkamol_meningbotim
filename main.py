@@ -16,3 +16,4 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("bot to'xtadi")
+print(5624)
